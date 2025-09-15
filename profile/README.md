@@ -26,7 +26,7 @@ The software is widely used in genres ranging from electronic and hip-hop to fil
 Ableton Live is available in three editions: Intro, Standard, and Suite, each tailored to different levels of expertise and needs. Whether you're a beginner or a professional, Live offers the tools you need to bring your musical ideas to life.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Ableton_logo.png" alt="Ableton Live Session View"/>
+  <img src="https://i.ytimg.com/vi/LfBCK6BuW2Q/maxresdefault.jpg" alt="Ableton Live Session View"/>
 </p>
 
 ---
